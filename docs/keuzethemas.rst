@@ -1,0 +1,109 @@
+***************************************
+Keuzethema's
+***************************************
+
+Hieronder zijn de keuze thema's beschreven. Er zijn nog veel keuze thema's in ontwikkeling en daarvoor is [nog] geen lesmatriaal.
+Echter wil je wel graag deze module afsluiten kun je met een eigen plan komen. Kijk hiervoor onder het kopje 'eigen plan'
+
+De eindtermen zijn  beschreven onder het kopje eindtermen.
+
+Algoritmiek, berekenbaarheid en logica
+#########################################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Databases
+#############
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Cognitive computing
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Programmeerparadigma’s
+##############################
+
+Computerarchitectuur
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Netwerken
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Physical computing
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Security
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Usability
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+User experience
+##############################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Maatschappelijke en individuele invloed van informatica
+#################################################################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Computational science
+#####################
+Het matriaal voor dit keuzethema is nog in ontwikkeling.
+
+Eigen invulling
+#########################################
+Mocht je een eigen project willen uitvoeren, dan gaan we dat doen :)
+Wat wel een een eis is dat je dan een van bovenstaande keuzethema's gaat verwerken binnen je project.
+Een projecteam mag zo groot zijn als je zelf wilt, echter er geld een maximum van 2 personen per keuzethema.
+
+Zo zou je bijvoorbeeld een game kunnen maken waarin de volgende keuzethema's in verwerkt kunnen zijn:
+
+* Programmeerparadigma’s
+* User experience
+* Cognitive computing
+
+Alles is mogelijk, hoe gekker hoe leuker :)
+Echter hou er rekening mee dat er per leerling  60 uur werk in moet zitten.
+
+Tip: Je zou het project ook kunnen koppeling met een PO van een ander vak.
+Ik kan mij zomaar voorstellen dat je het kunt combineren met bijvoorbeeld Wiskunde, Natuurkunde of KunstLab. Overleg eens met de betrefende docenten.
+
+Hoe gaat het in zijn werk?
+******************************
+
+Stap 1: Plan
+******************************
+In de eerste 2 weken maken je plan en bespreekt het met je docent.
+Het plan wordt gemaakt in de presentatie tool Sway! Sway kun je vinden binnen de office omgeving van Sancta Maria.
+De volgende onderdelen komen dienen terug te komen in het plan:
+
+* Wat ga je maken?
+* Hoe ga je het maken?
+* Welke kennis heb je nodig en hoe ga je dat je zelf aanleren?
+* Hoe past jou project in de keuzethema's, maak hierbij duidelijk een koppeling met de eindtermen
+* Maak een planning met alle activiteiten en koppel daar ook uren aan. Doe dit in excel!
+* Plan 3 overleg momenten in met je docent en leg dit vast.
+
+Deel dit plan met de docent en na akkoord ga je naar stap 2.
+
+Het plan telt voor 10% mee met je eindcijfer.
+
+Stap 2: Uitvoering
+******************************
+Je gaat aan de slag met je project, wat belangrijk is tijds de uitvoering om je planning en logboek bij te houden in een excel document.
+Controleer regelmatig of alles volgens plan verloopt. Pas zo nodig de planning aan, echter beschrijf ook waarom je dit doet.
+Deel dit document met je docent en plan (minimaal 3) overleg momenten in met je docent.
+
+Bovenstaand process telt voor 20% mee met je eindcijfer.
+
+Stap 3: Oplevering & Presentatie
+**********************************
+Een week voor het afronden van de periode dien je het project in te leveren bij de docent.
+Maak je iets tastbaars, dan wil de docent graag een video met een demo.
+In de laatste week van de periode dien je een presentatie te geven aan de klas.
+
+Het eindproduct telt voor 60% mee en de presentatie telt voor 10% mee.

@@ -1,0 +1,642 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="nl" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="nl" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Archive &mdash; Informatica  documentatie</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Zoeken" href="../search.html" />
+    <link rel="prev" title="Bronnen &amp; Links" href="meerinfo.html" /> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> Informatica
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="inleiding.html">Het vak</a></li>
+<li class="toctree-l1"><a class="reference internal" href="organisatie.html">Organisatie</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pta.html">PTA en eindtermen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="kernprogramma.html">Kernprogramma</a></li>
+<li class="toctree-l1"><a class="reference internal" href="keuzethemas.html">Keuzethema’s</a></li>
+<li class="toctree-l1"><a class="reference internal" href="meerinfo.html">Bronnen &amp; Links</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Archive</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#python-en-flask">Python en Flask</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#inleiding">0: Inleiding</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#inleiding-programeren">Inleiding Programeren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#wat-ga-je-leren">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#beoordeling">Beoordeling</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#opdrachten">Opdrachten</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#python-syntax">1: Python Syntax</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id1">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id2">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#assigenment">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#strings-console-output">2: Strings &amp; Console Output</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id3">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id4">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id5">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#conditionals-control-flow">3: Conditionals &amp; Control Flow</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id6">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id7">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id8">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#functions">4: Functions</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id9">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id10">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id11">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#list-dictionaries">5: List &amp; Dictionaries</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id12">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id13">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id14">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#student-become-teacher">6: Student Become Teacher</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id15">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id16">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id17">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#list-function-loops">7: List Function &amp; Loops</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id18">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id19">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id20">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#advanced-python-vwo-only">8: Advanced Python [vwo only]</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id21">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id22">Opdrachten</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id23">Assigenment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#eigen-webapplicatie">9: Eigen Webapplicatie</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id24">Wat ga je leren</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id25">Opdrachten</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#the-challenge">10: The Challenge</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id26">Opdrachten</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#become-a-legend">11: Become a legend!</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#xx-docentenhandleding">XX: Docentenhandleding</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#de-voorbereidingen">De voorbereidingen:</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#topics">Topics:</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#benodigde-tools">Benodigde tools:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">Informatica</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Archive</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/docs/archive.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="archive">
+<h1>Archive<a class="headerlink" href="#archive" title="Permalink naar deze titel">¶</a></h1>
+<p>Onderstaand zijn cursusen die samengesteld zijn en eerder gegeven zijn binnen informatica.</p>
+<div class="section" id="python-en-flask">
+<h2>Python en Flask<a class="headerlink" href="#python-en-flask" title="Permalink naar deze titel">¶</a></h2>
+<p>Deze cursus is in 2016,2017 en 2018 aangeboden.
+Het is dus niet gegandeerd dat alle links nog werken, wil je deze cursus gebruiken en vindt je zaken die er missen laat mij dat weten.</p>
+<div class="section" id="inleiding">
+<h3>0: Inleiding<a class="headerlink" href="#inleiding" title="Permalink naar deze titel">¶</a></h3>
+<div class="section" id="inleiding-programeren">
+<h4>Inleiding Programeren<a class="headerlink" href="#inleiding-programeren" title="Permalink naar deze titel">¶</a></h4>
+<p>Welkom bij de cursus inleiding programmeren. Tijdens deze cursus leren we jou de basis van het programmeren.
+We beginnen met de Python console en later gaan we een met behulp van het flask framework.
+Je een echte eigen applicatie bouwen. Het eind doel van deze cursus is bouwen van de volgende applicatie: de groentewinkel
+De meeste hoofdstukken bestaan uit het lezen van een instructie en het maken opdrachten in Codecademy.
+Na afronden van de opdrachten in Codecadamy maak je de opdrachten in repl.it.
+Ik wens je veel succes met deze cursus en stel gerust je vragen, wij docenten beantwoorden ze graag!</p>
+</div>
+<div class="section" id="wat-ga-je-leren">
+<h4>Wat ga je leren<a class="headerlink" href="#wat-ga-je-leren" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Inleiding Programmeren ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>De basis van python</li>
+<li>de basis van flask</li>
+<li>Python anywhere</li>
+<li>Beetje bootstap - optioneel</li>
+<li>Basis git - optioneel</li>
+</ul>
+</div>
+<div class="section" id="beoordeling">
+<h4>Beoordeling<a class="headerlink" href="#beoordeling" title="Permalink naar deze titel">¶</a></h4>
+<p>Je eindcijfer wordt als volgt bepaald:</p>
+<ul class="simple">
+<li>Voor de losse assignments krijg je een 0.5 punt per assignment</li>
+<li>De eindopdracht bestaat uit 4 stappen, per stap krijg je 1 punt</li>
+<li>Met de legend opdracht kun jij er nog 3 extra punten bij verdienen, en een 10 is zeker mogelijk</li>
+</ul>
+</div>
+<div class="section" id="opdrachten">
+<h4>Opdrachten<a class="headerlink" href="#opdrachten" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:
+* Maak een - gratis - account aan op <a class="reference external" href="https://www.codecademy.com">Codeacademy</a>
+* Maak een - gratis - account aan op <a class="reference external" href="https://repl.it">repl.it</a>
+* Vraag de docent om de invite link voor jou classroom binnen repl.it. Hier kun je de opdrachten terugvinden</p>
+</div>
+</div>
+<div class="section" id="python-syntax">
+<h3>1: Python Syntax<a class="headerlink" href="#python-syntax" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer je de syntax van python .</p>
+<div class="section" id="id1">
+<h4>Wat ga je leren<a class="headerlink" href="#id1" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Python Syntax ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>Variabelen</li>
+<li>Booleans</li>
+<li>Whitespace</li>
+<li>Comments</li>
+<li>Math functions</li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h4>Opdrachten<a class="headerlink" href="#id2" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 1</li>
+</ul>
+</div>
+<div class="section" id="assigenment">
+<h4>Assigenment<a class="headerlink" href="#assigenment" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>Maak binnen repl.it assignment 1 en lever dit in via repl.it</li>
+</ul>
+</div>
+</div>
+<div class="section" id="strings-console-output">
+<h3>2: Strings &amp; Console Output<a class="headerlink" href="#strings-console-output" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer je wat een string is en wat de console is.</p>
+<div class="section" id="id3">
+<h4>Wat ga je leren<a class="headerlink" href="#id3" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Strings &amp; Console Output ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>String</li>
+<li>Index</li>
+<li>String methods</li>
+<li>Print</li>
+<li>String Conversion</li>
+<li>String Formatting</li>
+<li>Date &amp; Time</li>
+</ul>
+</div>
+<div class="section" id="id4">
+<h4>Opdrachten<a class="headerlink" href="#id4" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 2</li>
+</ul>
+</div>
+<div class="section" id="id5">
+<h4>Assigenment<a class="headerlink" href="#id5" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>Maak binnen repl.it assignment 2 en lever dit in via repl.it</li>
+</ul>
+</div>
+</div>
+<div class="section" id="conditionals-control-flow">
+<h3>3: Conditionals &amp; Control Flow<a class="headerlink" href="#conditionals-control-flow" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer het je meer over het “if-then” statement en de flow van een applicatie.</p>
+<div class="section" id="id6">
+<h4>Wat ga je leren<a class="headerlink" href="#id6" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Conditionals &amp; Control Flow ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>If statement</li>
+<li>Comparators</li>
+<li>Boolean Operators</li>
+<li>Order of Operators</li>
+</ul>
+</div>
+<div class="section" id="id7">
+<h4>Opdrachten<a class="headerlink" href="#id7" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 3</li>
+</ul>
+</div>
+<div class="section" id="id8">
+<h4>Assigenment<a class="headerlink" href="#id8" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>Maak binnen repl.it assignment 3 en lever dit in via repl.it</li>
+</ul>
+</div>
+</div>
+<div class="section" id="functions">
+<h3>4: Functions<a class="headerlink" href="#functions" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer je het maken van functies</p>
+<div class="section" id="id9">
+<h4>Wat ga je leren<a class="headerlink" href="#id9" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Functions ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>Functies</li>
+<li>Modules</li>
+<li>max, min, abs</li>
+</ul>
+</div>
+<div class="section" id="id10">
+<h4>Opdrachten<a class="headerlink" href="#id10" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 4</li>
+</ul>
+</div>
+<div class="section" id="id11">
+<h4>Assigenment<a class="headerlink" href="#id11" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>Maak binnen repl.it assignment 4 en lever dit in via repl.it</li>
+</ul>
+</div>
+</div>
+<div class="section" id="list-dictionaries">
+<h3>5: List &amp; Dictionaries<a class="headerlink" href="#list-dictionaries" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer je alles over lijsten en dictionaries</p>
+<div class="section" id="id12">
+<h4>Wat ga je leren<a class="headerlink" href="#id12" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk List &amp; Dictionaries ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>List (append, len, index, insert)</li>
+<li>For loop</li>
+<li>Dictionary (key, adding, values, remove)</li>
+</ul>
+</div>
+<div class="section" id="id13">
+<h4>Opdrachten<a class="headerlink" href="#id13" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 5</li>
+</ul>
+</div>
+<div class="section" id="id14">
+<h4>Assigenment<a class="headerlink" href="#id14" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>Maak binnen repl.it assignment 5 en lever dit in via repl.it</li>
+</ul>
+</div>
+</div>
+<div class="section" id="student-become-teacher">
+<h3>6: Student Become Teacher<a class="headerlink" href="#student-become-teacher" title="Permalink naar deze titel">¶</a></h3>
+<p>Dit hoofdstuk is een herhaling van alles wat je tot nu toe geleerd hebt</p>
+<div class="section" id="id15">
+<h4>Wat ga je leren<a class="headerlink" href="#id15" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Student Become Teacher ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>recap</li>
+</ul>
+</div>
+<div class="section" id="id16">
+<h4>Opdrachten<a class="headerlink" href="#id16" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 6</li>
+</ul>
+</div>
+<div class="section" id="id17">
+<h4>Assigenment<a class="headerlink" href="#id17" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>geen</li>
+</ul>
+</div>
+</div>
+<div class="section" id="list-function-loops">
+<h3>7: List Function &amp; Loops<a class="headerlink" href="#list-function-loops" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer je alles over een lijst en over loops</p>
+<div class="section" id="id18">
+<h4>Wat ga je leren<a class="headerlink" href="#id18" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk List Function &amp; Loops ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>list (pop, remove)</li>
+<li>Passing a list to a function</li>
+<li>Using a list in a funtion</li>
+<li>Loops</li>
+</ul>
+</div>
+<div class="section" id="id19">
+<h4>Opdrachten<a class="headerlink" href="#id19" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 7</li>
+<li>Maak binnen codecademy - Overview 8 (alleen loops)</li>
+</ul>
+</div>
+<div class="section" id="id20">
+<h4>Assigenment<a class="headerlink" href="#id20" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>Maak binnen repl.it assignment 7 en lever dit in via repl.it</li>
+</ul>
+</div>
+</div>
+<div class="section" id="advanced-python-vwo-only">
+<h3>8: Advanced Python [vwo only]<a class="headerlink" href="#advanced-python-vwo-only" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk leer wat meer ingewikkeldere python syntax</p>
+<div class="section" id="id21">
+<h4>Wat ga je leren<a class="headerlink" href="#id21" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Advanced Python (vwo only) ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>advanced python</li>
+</ul>
+</div>
+<div class="section" id="id22">
+<h4>Opdrachten<a class="headerlink" href="#id22" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak binnen codecademy - Overview 8 (practise make perfect)</li>
+</ul>
+</div>
+<div class="section" id="id23">
+<h4>Assigenment<a class="headerlink" href="#id23" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende opdracht(en) maak je en lever je in bij de docent:</p>
+<ul class="simple">
+<li>geen</li>
+</ul>
+</div>
+</div>
+<div class="section" id="eigen-webapplicatie">
+<h3>9: Eigen Webapplicatie<a class="headerlink" href="#eigen-webapplicatie" title="Permalink naar deze titel">¶</a></h3>
+<p>In dit hoofdstuk ga jij bezig houden met je eerste eigen webapplicatie, dit is niet makkelijk maar zeker super gaaf. Het stelt nog niet zoveel voor maar het wordt een online notitieboekje: Scratchpad We gaan gebruik maken van een online omgeving - python anywhere - waarbij je ook het gemaakte werk kan laten zien aan anderen. Daarnaast gaan we gebruik maken van de Flask als framework, op die manier kunnen we python naar het web brengen. Verder kom je kort in aanraking met bootstrap en leer je een beetje wat van versiebeheer - git.</p>
+<div class="section" id="id24">
+<h4>Wat ga je leren<a class="headerlink" href="#id24" title="Permalink naar deze titel">¶</a></h4>
+<p>Binnen het hoofdstuk Eigen Webapplicatie ga je aan de slag met de volgende onderwerpen:</p>
+<ul class="simple">
+<li>Python Anywhere</li>
+<li>Flask</li>
+<li>Beetje Git</li>
+<li>Beetje Bootstrap</li>
+<li>beetje Versiebeheer</li>
+</ul>
+</div>
+<div class="section" id="id25">
+<h4>Opdrachten<a class="headerlink" href="#id25" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak een account aan op <a class="reference external" href="https://www.pythonanywhere.com">Python Anywhere</a></li>
+<li>Volg de volgende <a class="reference external" href="https://blog.pythonanywhere.com/121/">beginners guide</a> tot database. Als je het leuk vindt mag je natuurlijk wel doen</li>
+</ul>
+</div>
+</div>
+<div class="section" id="the-challenge">
+<h3>10: The Challenge<a class="headerlink" href="#the-challenge" title="Permalink naar deze titel">¶</a></h3>
+<p>Je bent aangekomen bij de laatse opdracht. Je hebt echt veel geleerd. Je hebt de basis van python onder de knie, je kunt een eigen webapplicatie bouwen en hostenDe laatste opdracht zal een echte uitdaging worden, moglijk zullen er momenten zijn dat je denkt “ik kan het niet”, maar het doorzettemn loont! En zoals elke programmeur zegt: “alles is online te vinden!”. En de programeer community wil je ook heel graag helpen. Dat is dan ook gelijk een tip, als je na het online zoeken er niet uitkomt maak een account aan op <a class="reference external" href="https://stackoverflow.com">Stack Overflow</a> de community die jou vraag altijd binnen 24 uur beantwoordt. Werkt geweldig. Oke - nu natuurlijk de vraag, wat ga ik maken? In assignment 7 heb je een groentewinkel gemaakt, deze groentewinkel moet je nu online gaan zetten. Hier een voorbeeld van hoe deze eruit kan komen te zien: de groentewinkel
+De uitdagingen zit hem in het gebruik van alle online tools in combinatie met flask
+Tip: Volg de stappen zoals ik ze hieronder beschreven heb, werk steeds aan kleine stukjes van je code dan kom je er uiteindeljk wel</p>
+<div class="section" id="id26">
+<h4>Opdrachten<a class="headerlink" href="#id26" title="Permalink naar deze titel">¶</a></h4>
+<p>Ga aan de slag met de volgende onderdelen:</p>
+<ul class="simple">
+<li>Maak een nieuwe app route aan binnen je code zodat je een extra url krijgt voor de winkel, werkt het? Dan ga je door. Hulp nodig: Quickstart guide</li>
+<li>Maak een copy (ctrl-c) van je repl.it opdracht en zet dat in python anywhere, probeer de groente producten nu op jouw website url te krijgen, lukt het overbrengen van variabelen nog niet, kijk nog even goed in de beginnersblog hoe je dat daar deed</li>
+<li>Nu meest lastige, de communicatie tussen jouw website (frondend) en de python code (backend). Maak eerst een knopje in je code of eventueel in een aparte app route om te proberen. Ik heb een stukje voorbeeld code voor je gemaakt: de button en de de source code</li>
+<li>Nu je de communicatie op orde hebt, kun je de gehele opdracht af maken - SUCCES</li>
+</ul>
+</div>
+</div>
+<div class="section" id="become-a-legend">
+<h3>11: Become a legend!<a class="headerlink" href="#become-a-legend" title="Permalink naar deze titel">¶</a></h3>
+<p>Is awesome zijn voor jou niet aweome genoeg, maar wil je een code legend worden? Dan mag je zelf een applicatie bedenken, bespreek je voorstel met de docent. And build it!</p>
+</div>
+<div class="section" id="xx-docentenhandleding">
+<h3>XX: Docentenhandleding<a class="headerlink" href="#xx-docentenhandleding" title="Permalink naar deze titel">¶</a></h3>
+<p>Deze cursus is opgezet voor het voortgezet onderwijs voor het havo en vwo. Binnen deze cursus is er gekozen voor het gebruik van allemaal digitale bestaande middelen. De eindopdracht is een simpele applicatie wat als basis kan dienen voor hun eerste eigen appliciatie. De basis in python krijgen de leerlingen de instructie en de oefening in codecademy, en de controle of ze de lesstof begrepen hebben korte opdrachten in repl.it. Vervolgens volgen de leerlingen in een how-to om hun eerste appliciatie binnen python anywhere waarbij flask wordt gebruikt als framework. de bedoeling dat ze hun laaste ingeleverd opdracht gaan ombouwen tot een applicatie binnen hun python anywhere omgeving, en voor het gehele proces krijgen ze een eindcijfer als je nog geen ervaring hebt binnen deze omgeving, wil ik je adviseren om alles een keer door te lopenvoor de leerlingen die extra snel gaan en een ‘10’ willen halen is er een extra opdracht aan het eind toegevoegd</p>
+<p>voor deze cursus staat ongeveer 60 slu.</p>
+<div class="section" id="de-voorbereidingen">
+<h4>De voorbereidingen:<a class="headerlink" href="#de-voorbereidingen" title="Permalink naar deze titel">¶</a></h4>
+<p>Ter voorbereiding van de curses:</p>
+<ul class="simple">
+<li>Maak een gratis account aan op codecademy</li>
+<li>Maak een gratis account aan op repl.it</li>
+<li>Maak binnen repl.it een classroom aan voor al jou klassen</li>
+<li>Maak de assignments aan binnen de classroom</li>
+<li>Deel de invite link met de betreffende klas</li>
+<li>maak een gratis account aan op pythonanywhere</li>
+<li>de blog die de leerlingen binnen python anywhere gaan maken</li>
+<li>de eindopdracht voor de leerlingen: een simpel vooraadsysteem voor een groentewinkel</li>
+</ul>
+</div>
+<div class="section" id="topics">
+<h4>Topics:<a class="headerlink" href="#topics" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende topics komen aan bod:</p>
+<ul class="simple">
+<li>Basis Python</li>
+<li>Basis Flask</li>
+<li>Python Anywhere</li>
+</ul>
+</div>
+<div class="section" id="benodigde-tools">
+<h4>Benodigde tools:<a class="headerlink" href="#benodigde-tools" title="Permalink naar deze titel">¶</a></h4>
+<p>De volgende online tools worden gebruikt:</p>
+<ul class="simple">
+<li>codecademy</li>
+<li>repl.it</li>
+<li>pythonanywhere</li>
+</ul>
+<p>Beoorderling:</p>
+<p>Het eindcijfer wordt bepaald aan hand van de volgende criteria (let wel, het maximale cijfer is een 10):</p>
+<ul class="simple">
+<li>Voor de losse assignments krijg je een 0.5 punt per assignment</li>
+<li>De eindopdracht bestaat uit 4 stappen, per stap krijg je 1 punt</li>
+<li>Met de legend opdracht kun jij er nog 3 extra punten bij verdienen, en een 10 is zeker mogelijk</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="meerinfo.html" class="btn btn-neutral" title="Bronnen &amp; Links" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2019, Chris van den Berg
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../_static/jquery.js"></script>
+        <script type="text/javascript" src="../_static/underscore.js"></script>
+        <script type="text/javascript" src="../_static/doctools.js"></script>
+        <script type="text/javascript" src="../_static/translations.js"></script>
+    
+
+  
+
+  <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

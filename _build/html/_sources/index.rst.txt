@@ -44,6 +44,8 @@ Keuzethema's
    docs/kernprogramma
    docs/keuzethemas
    docs/meerinfo
+   docs/archive
+
 
 Indices and tables
 ==================

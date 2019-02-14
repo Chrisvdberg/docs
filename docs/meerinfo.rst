@@ -1,5 +1,5 @@
 ******************************
-Bronnen
+Bronnen & Links
 ******************************
 
 Lesmatriaal
@@ -11,7 +11,7 @@ Lesmatriaal
 
 Algortimen
 ############
-* `draw.io <https://www.draw.io>`_`
+* `draw.io <https://www.draw.io>`_
 
 Programeren
 ############
@@ -19,6 +19,9 @@ Programeren
 * `Python Anywhere <https://www.pythonanywhere.com>`_
 * `Blockly <https://blockly-games.appspot.com>`_
 * `Flowgorithm <http://flowgorithm.org/index.htm>`_
+* `GitHub <http://github.com>`_
+* `Stack Overflow <https://stackoverflow.com>`_
+
 
 SLO
 #####

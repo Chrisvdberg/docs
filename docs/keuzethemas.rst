@@ -5,54 +5,272 @@ Keuzethema's
 Hieronder zijn de keuze thema's beschreven. Er zijn nog veel keuze thema's in ontwikkeling en daarvoor is [nog] geen lesmatriaal.
 Echter wil je wel graag deze module afsluiten kun je met een eigen plan komen. Kijk hiervoor onder het kopje 'eigen plan'
 
-De eindtermen zijn  beschreven onder het kopje eindtermen.
-
 Algoritmiek, berekenbaarheid en logica
 #########################################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+**********
+volgt.....
+
+Eindtermen
+************************************************
+G1: Complexiteit van algoritmen
+-------------------------------
+[havo] de kandidaat van gegeven algoritmen de complexiteit vergelijken, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.
+[vwo] de kandidaathet verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.
+
+G2: Berekenbaarheid
+-------------------
+De kandidaat kan berekeningen op verschillende abstractieniveaus karakteriseren en relateren, en kan klassieke onberekenbare problemen herkennen en benoemen.
+
+G3: Logica
+----------
+De kandidaat kan eigenschappen van digitale artefacten uitdrukken in logische formules.
+
 
 Databases
 #############
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+**********
+volgt.....
+
+Eindtermen
+*******************
+H1: Informatiemodellering
+-------------------------
+De kandidaat kan een informatiemodel opstellen voor een eenvoudige praktische situatie en aan de hand hiervan een database definiëren.
+
+H2: Database paradigma’s
+------------------------
+De kandidaat kan naast het relationele paradigma ten minste één ander databaseparadigma beschrijven en kan voor een concrete toepassing de geschiktheid van de betreffende paradigma’s afwegen.
+
+H3: Linked data
+---------------
+De kandidaat kan in een toepassing data uit verschillende databases (databronnen) met elkaar in verband brengen.
+
 
 Cognitive computing
 ##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+**********
+volgt.....
+
+Eindtermen
+*****************************
+I1: Intelligent gedrag
+----------------------
+De kandidaat kan de processen die nodig zijn voor intelligent gedrag beschrijven en kan analyseren hoe deze processen in de informatica ingezet kunnen worden bij het ontwikkelen van digitale artefacten.
+
+I2: Kenmerken cognitive computing
+---------------------------------
+De kandidaat kan de belangrijkste kenmerken van cognitive computing-systemen uitleggen, het verschil met traditionele digitale artefacten aangeven en kan van een probleem aangeven of de oplossing ervan zich leent voor een cognitive computing-aanpak.
+
+I3: Toepassen van cognitive computing
+-------------------------------------
+De kandidaat kan een eenvoudige toepassing realiseren met één of meer van de methodes en technologieën uit de cognitive computing.
+
 
 Programmeerparadigma’s
 ##############################
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt...
+
+Eindtermen
+***********************
+
+J1: Alternatief programmeerparadigma
+------------------------------------
+De kandidaat kan van minimaal één extra programmeerparadigma de kenmerken beschrijven en kan programma’s volgens dat paradigma ontwikkelen en evalueren.
+
+J2: Keuze van een programmeerparadigma
+--------------------------------------
+De kandidaat kan voor een gegeven probleem een afweging maken tussen paradigma’s voor het oplossen ervan.
 
 Computerarchitectuur
 ##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt...
+
+Eindtermen
+***********************
+K1: Booleaanse algebra
+----------------------
+De kandidaat kan rekenen met formules in Booleaanse algebra.
+
+K2: Digitale schakelingen
+-------------------------
+De kandidaat kan eenvoudige digitale schakelingen op bit-niveau construeren.
+
+K3: Machinetaal
+---------------
+De kandidaat kan een eenvoudig programma in machinetaal schrijven aan de hand van de beschrijving van een instructieset-architectuur.
+
+K4: Variatie in computerarchitectuur
+------------------------------------
+De kandidaat kan variatie in computerarchitectuur verklaren in termen van technologische ontwikkelingen en toepassingsdomeinen.
 
 Netwerken
 ##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt...
+
+Eindtermen
+***********************
+L1: Netwerkcommunicatie
+-----------------------
+De kandidaat kan de manier waarop netwerkcomponenten met elkaar communiceren beschrijven en analyseren, en kan schalingseffecten bij communicatie herkennen, er voorbeelden van geven en de gevolgen ervan uitleggen.
+
+L2: Internet
+------------
+De kandidaat kan de basisprincipes van het internet als netwerk uitleggen en aangeven welke gevolgen dit heeft voor toepassingen en voor gebruikers.
+
+L3: Distributie
+---------------
+De kandidaat kan vormen van samenwerking en verdeling van functies en gegevens in netwerken beschrijven.
+
+L4: Netwerksecurity
+-------------------
+De kandidaat kan gevaren van inbreuk op gedistribueerde functies en gegevens analyseren, en maatregelen adviseren die deze inbreuk tegengaan.
+
 
 Physical computing
 ##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt...
+
+Eindtermen
+***********************
+M1: Sensoren en actuatoren
+--------------------------
+De kandidaat kan sensoren en actuatoren waarmee een computersysteem de fysieke omgeving kan waarnemen en aansturen herkennen en functioneel beschrijven.
+
+M2: Ontwikkeling physical computing componenten
+-----------------------------------------------
+De kandidaat kan fysieke systemen en processen modelleren met het oog op real time besturingsaspecten en kan met behulp van deze modellen, sensoren en actuatoren een computersysteem ontwikkelen om fysieke systemen en processen te bewaken en besturen.
+
 
 Security
 ##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt...
+
+Eindtermen
+***********************
+N1: Risicoanalyse
+-----------------
+De kandidaat kan risico’s, bedreigingen en kwetsbaarheden in een ict-toepassing analyseren en kan daarbij zowel technische als menselijke factoren betrekken.
+
+N2:Maatregelen
+--------------
+De kandidaat kan keuzen voor technische en organisatorische maatregelen ter vergroting van de security verklaren.
 
 Usability
-##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+################
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt....
+
+Eindtermen
+*******************************
+O1: Gebruikersinterfaces
+------------------------
+De kandidaat kan de werking van gebruikersinterfaces beschrijven en verklaren aan de hand van cognitieve en biologische modellen.
+
+O2: Gebruikersonderzoek
+-----------------------
+De kandidaat kan gebruikersinterfaces van digitale artefacten evalueren via gebruikersonderzoek.
+
+O3: Ontwerp
+-----------
+De kandidaat kan elementen van een gebruikersinterface ontwerpen.
+
 
 User experience
 ##############################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt....
+
+Eindtermen
+*******************************
+P1: Analyse
+-----------
+De kandidaat kan de relatie tussen ontwerpkeuzes van een interactief digitaal artefact en de verwachte cognitieve, gedragsmatige en affectieve veranderingen of ervaringen verklaren.
+
+P2: Analyse
+-----------
+De kandidaat kan de relatie tussen ontwerpkeuzes van een interactief digitaal artefact en de verwachte cognitieve, gedragsmatige en affectieve veranderingen of ervaringen verklaren.
+
+
 
 Maatschappelijke en individuele invloed van informatica
 #################################################################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt....
+
+Eindtermen
+*******************************
+Q1: Maatschappelijke invloed
+----------------------------
+De kandidaat kan positieve en negatieve effecten van informatica en de genetwerkte samenleving op individueel en sociaal leven verklaren en voorspellen.
+
+Q2: Juridische aspecten
+-----------------------
+De kandidaat kan juridische aspecten van de toepassing van informatica in de samenleving analyseren.
+
+Q3: Privacy
+-----------
+De kandidaat kan effecten van technische, juridische en sociale maatregelen voor privacy- gerelateerde kwesties onderzoeken.
+
+Q4: Cultuur
+-----------
+De kandidaat kan redeneren over de invloed van informatica op culturele uitingen.
 
 Computational science
 #####################
-Het matriaal voor dit keuzethema is nog in ontwikkeling.
+todo: Inleiding ... volt....
+
+Programma
+********************************
+volgt....
+
+Eindtermen
+*******************************
+R1: Modelleren
+--------------
+De kandidaat kan aspecten van een andere wetenschappelijke discipline modelleren in computationele termen.
+
+R2: Simuleren
+-------------
+De kandidaat kan modellen en simulaties construeren en gebruiken voor het onderzoeken van verschijnselen in die andere wetenschap.
+
 
 Eigen invulling
 #########################################

@@ -319,7 +319,7 @@ De volgende online tools worden gebruikt:
 * pythonanywhere
 
 Beoorderling:
-
+-------------------
 Het eindcijfer wordt bepaald aan hand van de volgende criteria (let wel, het maximale cijfer is een 10):
 
 * Voor de losse assignments krijg je een 0.5 punt per assignment

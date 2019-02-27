@@ -2,8 +2,6 @@
 Het vak
 ******************************
 
-Inleiding
-##########
 Informatica als keuzevak havo/vwo is in 1998 onstaan.
 Destijds was er een programma weerspiegelt de tijd waarin het world wide web nog maar mondjesmaat gebruikt werd en bedrijfsautomatisering de meest in het oog springende toepassing van computers was.
 In de huidige samenleving werken velen in the cloud met behulp van wearable devices die veel aspecten van hun leven real time monitoren via het internet of things.

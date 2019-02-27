@@ -60,7 +60,7 @@ Week 3
 +--------------------+----------------------+-------------------------------------------------------+
 | F1: Usability      | 4,5: Richtlijn 3 & 4 | lees de tekst en alle vragen maken                    |
 +--------------------+----------------------+-------------------------------------------------------+
-| F1: Usability      | 6: Contact met....   | lees de tekst en alle vragen maken (behalve vraag 6.2)|
+| F1: Usability      | 6: Contact met....   | lees de tekst en alle vragen maken [behalve 6.2)]     |
 +--------------------+----------------------+-------------------------------------------------------+
 
 Week 4
@@ -165,15 +165,13 @@ Week 2
 +====================+======================+=======================================================+
 | C1-2: Informatie en| 3: gestructureerde...| lees de tekst en alle vragen maken                    |
 +--------------------+----------------------+-------------------------------------------------------+
-| C1-2: Informatie en| 4: bigdata           | lees de tekst en alle vragen maken                    |
-+--------------------+----------------------+-------------------------------------------------------+
 
 Week 3
 **********************
 +--------------------+----------------------+-------------------------------------------------------+
 | Onderdeel          | Hoofdstuk            | Wat                                                   |
 +====================+======================+=======================================================+
-| C3: Representeren  | 1: Representeren     | lees de tekst en alle vragen maken                    |
+| C1-2: Informatie en| 4: bigdata           | lees de tekst en alle vragen maken                    |
 +--------------------+----------------------+-------------------------------------------------------+
 
 Week 4
@@ -235,7 +233,15 @@ Week 10
 
 Periode 3
 ##########
-volgt ....
+In deze periode ga je bezighouden met:
+
+* Programeren in Python
+* Algoritmiek, eindige automaten
+
+In de toetsweek krijg je een toets over programeren in python deze telt voor 15% mee.
+De project opdracht over Algoritmiek, eindige automaten telt voor 15% mee.
+
+De komende periode bestaat uit 10 lesweken.
 
 Project opdrachten
 #####################
@@ -243,6 +249,7 @@ Project opdrachten
 Usability
 ************
 De volledige opdracht met toelichting en afbeeldingen vind je in Fundament F, hoeronder vind je een overzicht van het stappenplan voor de opdracht.
+De opdracht mag in 2-tal gemaakt worden.
 
 Stap 1: de opdrachtgever
 --------------------------
@@ -266,7 +273,7 @@ Geef in hoofdstuk 2 een lijst van eisen en een lijst van wensen.
 Stap 2: De gebruiker
 --------------------------
 Schrijf op basis van de gesprekken in hoofdstuk 3: user stories.
-Kijk nog even goed in fundement online in welke vorm deze moeten komen.
+Kijk nog even goed in fundement in welke vorm deze moeten komen.
 
 Stap 3: De structuur
 --------------------------
@@ -281,7 +288,7 @@ Een kleurenstaal bestaat uit drie tot vijf bij elkaar passende kleuren die je ga
 
 Zie voor tips fundement hoe je dit goed kunt doen.
 
-Vergeet niet om hier een motivatie bij te schrijven waarom je bepaalde keuzes maakt.
+Vergeet niet je keuzes the motiveren.
 
 Stap 5: Ontwerp
 --------------------------
@@ -292,17 +299,18 @@ Je kunt, met bijvoorbeeld het knipprogramma van Windows, leuke ideeën verzamele
 Daarna moet je aan de slag met je eigen invulling.
 
 Je kunt deze ontwerpen in powerpoint maken, echter elke vorm is goed. Zorg dat je van alle verschillende type pagina's een ontwerp hebt.
+Voeg de ontwerpen als plaatje toe in je verslag.
 
 Stap 6: evaluatie
 --------------------------
 Voordat je je functionele ontwerp ter goedkeuring naar de opdrachtgever stuurt, is het verstandig om te evalueren.
 Kijk nog eens goed naar de heuristieken van dit hoofdstuk: klopt je ontwerp daarmee?
-Maken een koppeling met heuristieken die je eerder geleerd hebt met in fundmement.
+Maak een koppeling met heuristieken die je eerder geleerd hebt met in fundmement.
 Na dat je alles goed bekeken hebt, leg je ontwerp neer bij je opdrachtgever.
 En vraag aan de opdracht gever een eerlijke mening en voeg dit toe in de bijlage van je ontwerp.
 
-Stap 7: implementatie
---------------------------
+Stap 7: implementatie [optioneel]
+---------------------------------
 Mocht je er de tijd voor hebben kun je de site daad werkelijk gaan implementeren. Je bent helemaal vrij hoe je dit kan gaan doen. Paar tips:
 
 * html / css kun je leren op `W3schools <https://www.w3schools.com>`_

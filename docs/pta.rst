@@ -17,7 +17,7 @@ Onderstaand pta is voor havo 4, geldt voor 60% mee voor je Examencijfer en betre
 +           +--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 |           | 4t2    | Interactie & website          | praktijk  | po         | 20%    | 40  | nee         | F1                |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
-| 2         | 4t3    | Informatica en Data           | theorie   | se         | 15%    | 30  | nee         | C1, C2, C3, C4, C5|
+| 2         | 4t3    | Informatica en Data           | theorie   | se         | 15%    | 30  | ja          | C1, C2, C3, C4, C5|
 +           +--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 |           | 4t4    | Inleiding programeren [stroom]| praktijk  | po         | 20%    | 40  | nee         | D1, D2            |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
@@ -29,14 +29,14 @@ Onderstaand pta is voor havo 4, geldt voor 60% mee voor je Examencijfer en betre
 
 Havo - 5
 ********
-Onderstaand pta is voor havo 5, geldt voor 50% mee voor je Examencijfer en betreft een stdielast van 120 uur.
+Onderstaand pta is voor havo 5, geldt voor 40% mee voor je Examencijfer en betreft een stdielast van 120 uur.
 
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 | Periode   | Code   | Onderwerp                     | Type      | Toetswijze | Weging | SLU | Herkansbaar | Eindtermen        |
 +===========+========+===============================+===========+============+========+=====+=============+===================+
 | 2         | 5t1    | Keuzethema A                  | praktijk  | po         | 50%    | 60  | nee         | zie eindtermen    |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+ bij de betreffende+
-| 3         | 5t2    | Keuzethema B                  | theorie   | se         | 50%    | 60  | nee         | keuzethema        |
+| 3         | 5t2    | Keuzethema B                  | praktijk  | po         | 50%    | 60  | nee         | keuzethema        |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 
 VWO - 4
@@ -46,17 +46,17 @@ Onderstaand pta is voor VWO 4, geldt voor 40% mee voor je Examencijfer en betref
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 | Periode   | Code   | Onderwerp                     | Type      | Toetswijze | Weging | SLU | Herkansbaar | Eindtermen        |
 +===========+========+===============================+===========+============+========+=====+=============+===================+
-| 1         | 4t1    | Hard- en software & security  | theorie   | se         | 15%    | 30  | Ja          | E1,E2, F2         |
+| 1         | 4t1    | Hard- en software & security  | theorie   | se         | 15%    | 30  | ja          | E1,E2, F2         |
 +           +--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
-|           | 4t2    | Interactie & website          | praktijk  | po         | 20%    | 40  | Ja          | F1                |
+|           | 4t2    | Interactie & website          | praktijk  | po         | 20%    | 40  | nee         | F1                |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
-| 2         | 4t3    | Informatica en Data           | praktijk  | po         | 15%    | 30  | Ja          | C1, C2, C3, C4, C5|
+| 2         | 4t3    | Informatica en Data           | theorie   | se         | 15%    | 30  | ja          | C1, C2, C3, C4, C5|
 +           +--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
-|           | 4t4    | Inleiding programeren         | praktijk  | po         | 20%    | 40  | Ja          | D1, D2            |
+|           | 4t4    | Inleiding programeren [stroom]| praktijk  | po         | 20%    | 40  | nee         | D1, D2            |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
-| 3         | 4t5    | programeren in python         | theorie   | se         | 15%    | 30  | Ja          | D1, D2            |
+| 3         | 4t5    | programeren in python         | theorie   | se         | 15%    | 30  | ja          | D1, D2            |
 +           +--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
-|           | 4t6    | Algoritmiek, eindige automaten| praktijk  | po         | 15%    | 30  | Ja          | B1, B2, B3, B4    |
+|           | 4t6    | Algoritmiek, eindige automaten| praktijk  | po         | 15%    | 30  | nee         | B1, B2, B3, B4    |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 
 VWO - 5
@@ -68,7 +68,7 @@ Onderstaand pta is voor VWO 5, geldt voor 30% mee voor je Examencijfer en betref
 +===========+========+===============================+===========+============+========+=====+=============+===================+
 | 2         | 5t1    | Keuzethema A                  | praktijk  | po         | 50%    | 60  | nee         | zie eindtermen    |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+ bij de betreffende+
-| 3         | 5t2    | Keuzethema B                  | theorie   | se         | 50%    | 60  | nee         | keuzethema        |
+| 3         | 5t2    | Keuzethema B                  | praktijk  | po         | 50%    | 60  | nee         | keuzethema        |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 
 VWO - 6
@@ -80,7 +80,7 @@ Onderstaand pta is voor VWO 6, geldt voor 30% mee voor je Examencijfer en betref
 +===========+========+===============================+===========+============+========+=====+=============+===================+
 | 2         | 5t1    | Keuzethema C                  | praktijk  | po         | 50%    | 60  | nee         | zie eindtermen    |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+ bij de betreffende+
-| 3         | 5t2    | Keuzethema D                  | theorie   | se         | 50%    | 60  | nee         | keuzethema        |
+| 3         | 5t2    | Keuzethema D                  | praktijk  | po         | 50%    | 60  | nee         | keuzethema        |
 +-----------+--------+-------------------------------+-----------+------------+--------+-----+-------------+-------------------+
 
 Eindtermen

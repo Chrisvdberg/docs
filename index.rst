@@ -11,7 +11,7 @@ Het vak is verdeelt in een kernprograma en keuze thema's.
 Het studieprogramma is gebaseerd op de  `eindtermen <http://handreikingschoolexamen.slo.nl/informatica/het-examenprogramma>`_ van de overheid.
 
 Binnen het hoofdsuk het vak informatica:
-
+  
 * Meer informatie over het vak.
 * waar het kernprogramma uit bestaat
 * welke keuze thema's er zijn.
